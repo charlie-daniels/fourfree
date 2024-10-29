@@ -1,5 +1,5 @@
 # fourfree
-designed because noone sells 40 percent keyboards anymore and why is the split spacebar so unused???
+designed because nobody sells 40 percent keyboards anymore.
 
 ## pcb
 
@@ -36,9 +36,14 @@ this is why the pads are on the bottom and the pin labels seem flipped from the 
 - 14x M2 screws...?
 case still being designed but should be screw in to the pcb mounting brackets, maybe 14 was overkill...
 
+## firmware
+
+this is just initial firmware made with [Keyboard Firmware Builder](https://kbfirmware.com/) by [Ruiqi Mao](https://ruiqimao.com/). The keymaps should work as expected as they are configured properly with the pinouts and key matrix.
+
+![firmware key matrix](/img/fourfree_key_matrix.png)
+
 ## to be added
 
-- firmware
 - plate
 - case
 - to see if the pcb actually works
